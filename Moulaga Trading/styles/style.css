@@ -1,0 +1,35 @@
+/* NE RIEN MODIFIER DANS CE FICHIER */
+
+@import url('./header.css');
+@import url('./main.css');
+@import url('./overlay.css');
+
+@import url('./moon.css');
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300;400;500;600;700;800;900&display=swap');
+
+body {
+    margin: 0;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+h1 {
+    text-decoration: underline;
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}

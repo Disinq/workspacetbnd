@@ -1,0 +1,24 @@
+@keyframes enterFromRight {
+    from { left: 100%; }
+    to { left: 0; }
+}
+
+@keyframes enterFromLeft {
+    from { left: -100%; }
+    to { left: 0; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0;}
+    to { opacity: 1;}
+}
+
+@keyframes bounce {
+    from { top: -5px; }
+    to { top: 0px; }
+}
+
+@keyframes gradienYellowRed {
+    from { background-color: yellow;}
+    to { background-color: red;}
+}
