@@ -1,6 +1,6 @@
 # workspacetbnd
 
-Here some of my projects
+Here some of my projects (8)
 
 # css_squareAnimation
 
@@ -9,26 +9,14 @@ Animation of a square using HTML & CSS ||| [Square Animation](css_squareAnimatio
 # css_moulagaTrading
 
 Responsive animated website using HTML & CSS ||| [Moulaga Trading](css_moulagaTrading)
-
-# javascript_bingo 
-
-Bingo website with some animations using JAVASCRIPT, HTML & CSS ||| [Javascript Bingo](javascript_bingo)
-
-# css_squareAnimation
-
-Animation of a square using HTML & CSS ||| [Square Animation](css_squareAnimation)
-
-# css_moulagaTrading
-
-Responsive animated website using HTML & CSS ||| [Moulaga Trading](css_moulagaTrading)
-
-# javascript_bingo 
-
-Bingo website with some animations using JAVASCRIPT, HTML & CSS ||| [Javascript Bingo](javascript_bingo)
 
 # javascript_toDoList
 
 To Do List website using JAVASCRIPT, HTML & CSS ||| [Javascript To Do List](javascript_toDoList)
+
+# javascript_bingo 
+
+Bingo website with some animations using JAVASCRIPT, HTML & CSS ||| [Javascript Bingo](javascript_bingo)
 
 # svelte_toDoList
 
